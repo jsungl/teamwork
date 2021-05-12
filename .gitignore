@@ -167,3 +167,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/java,windows,eclipse,maven,macos
 
+/build/
